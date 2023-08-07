@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SebatianLedesma
+- 👋 Hi, I’m @SebastianLedesma
 - 👀 I’m interested in programing and Web developing
 - 🌱 I’m currently learning Web Developing on ISPC
 - 💞️ I’m looking to collaborate on Basic Proyects
